@@ -1,1 +1,17 @@
 style.css
+p {
+	font-style: Helvetica, sans-serif;
+}
+
+div {
+	background-color: gray;
+}
+
+a {
+	color:red;
+	text-decoration: none;
+}
+
+a:hover {
+	color: green;
+}
